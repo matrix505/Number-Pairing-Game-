@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Pairing Game", "Number Pairing Game\Number Pairing Game.csproj", "{5EAC56B4-5494-4166-9506-1E0D21F32CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EAC56B4-5494-4166-9506-1E0D21F32CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAC56B4-5494-4166-9506-1E0D21F32CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAC56B4-5494-4166-9506-1E0D21F32CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAC56B4-5494-4166-9506-1E0D21F32CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49FF900A-ADD0-4D8D-A5FA-866B1B8B0973}
+	EndGlobalSection
+EndGlobal
